@@ -23,6 +23,8 @@
 <a href="https://linkedin.com/in/murali-m-v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murali-m-v" height="30" width="40" /></a>
 <a href="https://medium.com/@muralimv0101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muralimv0101" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@muralimv0101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@muralimv0101" height="30" width="40" /></a>
+<a href="https://twitter.com/@muralimv01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@muralimv01" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18476075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18476075" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
