@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **muralimv0101@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1wv5fpuHzektoJWKCLz8J482YWmR0uJeiGEWm_U9rp-g/edit](https://docs.google.com/document/d/1wv5fpuHzektoJWKCLz8J482YWmR0uJeiGEWm_U9rp-g/edit)
+- 📄 Know about my experiences https://drive.google.com/file/d/1LsoIqzca4DbvN8nXuxmBJBbhQkmJXw5t/view?usp=sharing](https://drive.google.com/file/d/1LsoIqzca4DbvN8nXuxmBJBbhQkmJXw5t/view?usp=sharing)
 
 - ⚡ Fun fact **ethical hacking 👨🏽‍💻**
 
