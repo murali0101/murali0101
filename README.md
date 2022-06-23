@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@muralimv0101](https://medium.com/@muralimv0101)
 
-- 💬 Ask me about **React,exprss,javaScript,HTML,CSS,Node js ,MongoDB**
+- 💬 Ask me about **DSA,React,exprss,javaScript,HTML,CSS,Node js ,MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-murali-m-v.netlify.app/](https://portfolio-murali-m-v.netlify.app/)
 
